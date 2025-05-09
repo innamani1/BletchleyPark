@@ -22,7 +22,4 @@ Click `C` to clear the display.
 Live Demo
 Try it here: [GitHub Pages Link](https://innamani1.github.io/BletchleyPark/)  
 
-Installation
-Clone this repository and open `index.html` in any browser:
-```bash
-git clone https://github.com/innamani1/BletchleyPark.git
+
